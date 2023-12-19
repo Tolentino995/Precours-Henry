@@ -1,2 +1,2 @@
-# Precours-Henry
-Este es el modulo 2 del curso de Henry
+Anthony Tolentino
+Este es un proyecto para modificar mi proyecto que fue extraido de github
